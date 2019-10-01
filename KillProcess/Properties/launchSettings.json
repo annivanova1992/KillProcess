@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KillProcess": {
+      "commandName": "Project",
+      "commandLineArgs": "SourceTree 2 1"
+    }
+  }
+}
