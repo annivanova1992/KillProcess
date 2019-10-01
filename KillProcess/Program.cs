@@ -53,7 +53,7 @@ namespace KillProcess
                 if (duration > TimeSpan.FromMinutes(timeToLive))
                 {
                     process.Kill();
-                    Console.WriteLine($"{processName} was killed");
+                    Console.WriteLine($"{DateTime.Now} {processName} was killed");
                 }
             }
         }

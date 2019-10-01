@@ -2,7 +2,7 @@
   "profiles": {
     "KillProcess": {
       "commandName": "Project",
-      "commandLineArgs": "SourceTree 2 1"
+      "commandLineArgs": "Notepad 5 1"
     }
   }
 }
